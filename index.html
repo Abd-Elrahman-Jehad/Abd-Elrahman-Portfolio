@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Abd Elrahman Jehad — Front-End Developer</title>
+<link rel="icon" type="image/jpeg" href="/profile-photo.jpeg" />
+<link rel="apple-touch-icon" href="/profile-photo.jpeg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<!--
+  One unified type family for both languages: IBM Plex Sans (Latin) and IBM
+  Plex Sans Arabic (Arabic) are the same design — same weights, same
+  proportions, same personality — drawn by the same type team specifically so
+  the two scripts sit together without clashing. IBM Plex Mono covers the
+  handful of true monospace bits (badges, tags, dates) in English; Arabic
+  text that lands in those same slots is remapped to IBM Plex Sans Arabic via
+  a single CSS variable override (see --font-mono in index.css), since a
+  matching Arabic monospace does not exist.
+-->
+<link
+  href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+  rel="stylesheet"
+/>
+<script>
+  /* Apply saved theme/lang BEFORE paint to avoid any flash on reload.
+     Tries localStorage first (works when this file is opened directly via
+     file://, where cookies are blocked), falling back to a cookie (works once
+     hosted on a real domain, or in sandboxes that block localStorage instead). */
+  (function () {
+    try {
+      function getSaved(name) {
+        try {
+          var v = window.localStorage.getItem(name);
+          if (v !== null) return v;
+        } catch (e) {}
+        var m = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+        return m ? decodeURIComponent(m[1]) : null;
+      }
+      var t = getSaved('portfolio_theme');
+      var l = getSaved('portfolio_lang');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+      if (l) {
+        document.documentElement.lang = l;
+        document.documentElement.dir = l === 'ar' ? 'rtl' : 'ltr';
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.jsx"></script>
+</body>
+</html>
