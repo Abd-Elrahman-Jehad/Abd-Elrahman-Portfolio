@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { NAV_ITEMS } from "./Navbar";
 import ThemeSwitch from "./ThemeSwitch";
-import profilePhoto from "../assets/hero-photo.jpg";
+import profilePhoto from "../assets/hero-photo.webp";
 
 export default function MobileDrawer({ open, onClose, t, activeSection, theme, toggleTheme }) {
   useEffect(() => {

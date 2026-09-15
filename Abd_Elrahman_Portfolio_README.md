@@ -104,7 +104,7 @@ react-portfolio/
 ├── public/
 │   ├── certs/                 # Certificate images
 │   ├── projects/              # Project showcase images
-│   ├── profile-photo.jpeg     # Portfolio profile image
+│   ├── profile-photo.webp     # Portfolio profile image
 │   └── Abd_Elrahman_Jehad_CV.pdf
 │
 ├── src/

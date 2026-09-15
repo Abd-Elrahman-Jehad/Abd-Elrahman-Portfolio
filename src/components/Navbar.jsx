@@ -1,5 +1,5 @@
 import ThemeSwitch from "./ThemeSwitch";
-import profilePhoto from "../assets/hero-photo.jpg";
+import profilePhoto from "../assets/hero-photo.webp";
 
 const NAV_ITEMS = [
   { id: "about", key: "nav_about" },

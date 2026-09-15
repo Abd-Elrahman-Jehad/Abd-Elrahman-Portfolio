@@ -1,5 +1,5 @@
 import useReveal from "../hooks/useReveal";
-import profilePhoto from "../assets/hero-photo.jpg";
+import profilePhoto from "../assets/hero-photo.webp";
 
 export default function About({ t }) {
   const photo = useReveal(0);

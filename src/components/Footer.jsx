@@ -1,5 +1,5 @@
 import { LinkedInIcon, GitHubIcon, WhatsAppIcon } from "./BrandIcons";
-import profilePhoto from "../assets/hero-photo.jpg";
+import profilePhoto from "../assets/hero-photo.webp";
 
 const SECTION_LINKS = [
   { id: "about", key: "nav_about" },

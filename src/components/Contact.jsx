@@ -89,16 +89,7 @@ export default function Contact({ t, lang }) {
             <h3>{t.contact_channels}</h3>
             <p>{t.contact_channels_sub}</p>
 
-            <a
-              className="contact-channel"
-              href={mailtoHref}
-              onClick={(e) => {
-                // Keep the native mailto fallback while explicitly navigating
-                // to it for browsers that do not reliably follow dynamic mailto hrefs.
-                e.preventDefault();
-                window.location.href = mailtoHref;
-              }}
-            >
+            <a className="contact-channel" href={mailtoHref}>
               <div className="c-icon">✉️</div>
               <div>
                 <b>{t.ch_email}</b>

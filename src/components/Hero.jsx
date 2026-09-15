@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import useCountUp from "../hooks/useCountUp";
-import heroPhoto from "../assets/its-me.jpeg";
+import heroPhoto from "../assets/its-me.webp";
 
 function Typewriter({ words }) {
   const [text, setText] = useState("");

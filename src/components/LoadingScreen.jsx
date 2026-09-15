@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import profilePhoto from "../assets/hero-photo.jpg";
+import profilePhoto from "../assets/hero-photo.webp";
 
 const MIN_INITIAL_MS = 1800;
 const RING_RADIUS = 54;
@@ -9,8 +9,8 @@ const RING_CIRCUMFERENCE = 2 * Math.PI * RING_RADIUS;
 // This prevents the hero/about photos from appearing a moment late after the
 // loading overlay disappears, especially on a cold first visit.
 const CRITICAL_IMAGES = [
-  new URL("../assets/its-me.jpeg", import.meta.url).href,
-  new URL("../assets/hero-photo.jpg", import.meta.url).href,
+  new URL("../assets/its-me.webp", import.meta.url).href,
+  new URL("../assets/hero-photo.webp", import.meta.url).href,
 ];
 
 export default function LoadingScreen({ lang }) {
