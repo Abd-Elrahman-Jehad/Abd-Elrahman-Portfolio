@@ -115,7 +115,7 @@ html.theme-target-light::view-transition-new(root){
 }
 @media(max-width:640px){
   .glass{backdrop-filter:blur(12px) saturate(130%); -webkit-backdrop-filter:blur(12px) saturate(130%);}
-}\n@media(max-width:640px){
+}@media(max-width:640px){
   #bg-canvas{opacity:.42;}
   .grain{opacity:.018;}
 }
@@ -1127,4 +1127,15 @@ html[dir="rtl"] .footer-links-col a:hover{transform:translateX(-4px);}
 
 @media (prefers-reduced-motion: reduce){
   *{animation-duration:0.001ms !important; transition-duration:0.001ms !important;}
+}
+/* Final mobile refinements */
+
+.section-tag {
+  font-size: 13px;
+}
+
+@media (max-width: 768px) {
+  .footer-brand-row .nav-name {
+    flex: 0 0 auto;
+  }
 }
