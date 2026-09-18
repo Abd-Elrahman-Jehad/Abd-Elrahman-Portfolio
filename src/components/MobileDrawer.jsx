@@ -2,6 +2,13 @@ import { useEffect } from "react";
 import { NAV_ITEMS } from "./Navbar";
 import ThemeSwitch from "./ThemeSwitch";
 import profilePhoto from "../assets/hero-photo.webp";
+import { smoothScrollToId } from "../utils_smooth_scroll";
+
+function handleDrawerNavClick(e, id, onClose) {
+  e.preventDefault();
+  onClose();
+  window.requestAnimationFrame(() => smoothScrollToId(id));
+}
 
 export default function MobileDrawer({ open, onClose, t, activeSection, theme, toggleTheme }) {
   useEffect(() => {
@@ -49,7 +56,7 @@ export default function MobileDrawer({ open, onClose, t, activeSection, theme, t
               key={item.id}
               href={`#${item.id}`}
               className={activeSection === item.id ? "active" : ""}
-              onClick={onClose}
+              onClick={(e) => handleDrawerNavClick(e, item.id, onClose)}
             >
               {t[item.key]}
             </a>

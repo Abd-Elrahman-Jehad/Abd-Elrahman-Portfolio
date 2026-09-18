@@ -26,11 +26,11 @@ const translations = {
     scroll: "مرر للأسفل",
 
     about_tag: "من أنا",
-    about_title: "شغوف ببناء واجهات نظيفة وسريعة",
+    about_title: "أحوّل الأفكار إلى واجهات حقيقية يستمتع الناس باستخدامها.",
     about_p1_html:
-      "أنا <strong>Abd Elrahman Jehad Aldasht</strong>، مهندس برمجيات ومطوّر واجهات أمامية (Front-End)، أركّز على بناء تطبيقات ويب حديثة، متجاوبة، وعالية الأداء بكود نظيف وتجربة استخدام استثنائية. أتخصص في HTML وCSS وJavaScript لتحويل الأفكار وتصاميم الواجهات إلى حلول سريعة وقابلة للتوسّع وسهلة الاستخدام.",
+      "أنا <strong>Abd Elrahman Jehad Aldasht</strong>، مطور واجهات أمامية أركز على <strong>React وJavaScript وHTML وCSS</strong>. أكثر ما أستمتع به في تطوير الويب هو تحويل التصميم من مجرد فكرة إلى واجهة حقيقية تعمل وتتفاعل مع المستخدم.",
     about_p2:
-      "إلى جانب خبرتي بالواجهات الأمامية، عندي أساس قوي بلغة Java، البرمجة كائنية التوجه (OOP)، هياكل البيانات، وهندسة البرمجيات. أكملت تدريبًا مهنيًا في تطوير الواجهات الأمامية بشركة Webura، وأنا عضو نشط بفرع IEEE لهندسة الحاسوب، بستمر أوسّع معرفتي عبر ورش العمل والمشاريع العملية.",
+      "أركز في عملي على بناء واجهات متجاوبة، وتطوير مكونات React قابلة لإعادة الاستخدام، وتحسين ترتيب وتفاصيل التصميم والتفاعلات. عملت على تطوير ونشر عدد من مشاريع الويب، وأكملت تدريبًا في تطوير الواجهات الأمامية لدى شركة Webura، كما أشارك في فرع IEEE لهندسة الحاسوب من خلال الأنشطة التقنية والورش والمشاريع الجماعية.",
     about_location: "غزة، فلسطين",
     about_cv_btn: "⬇ تحميل السيرة الذاتية (CV)",
 
@@ -135,11 +135,11 @@ const translations = {
     scroll: "Scroll down",
 
     about_tag: "About Me",
-    about_title: "Passionate about clean, fast interfaces",
+    about_title: "I turn ideas into interfaces people actually enjoy using.",
     about_p1_html:
-      "I'm <strong>Abd Elrahman Jehad Aldasht</strong>, a Software Engineer and Front-End Web Developer focused on building modern, responsive, and high-performance web applications with clean code and an exceptional user experience. I specialize in HTML, CSS, and JavaScript, transforming ideas and UI designs into fast, scalable, user-friendly solutions.",
+      "I'm <strong>Abd Elrahman Jehad Aldasht</strong>, a Front-End Web Developer focused on <strong>React, JavaScript, HTML, and CSS</strong>. I enjoy the part of development where a design stops being a picture and starts becoming a real, working product.",
     about_p2:
-      "Alongside my front-end expertise, I have a strong foundation in Java, Object-Oriented Programming (OOP), Data Structures, and Software Engineering. I completed a Front-End Development internship at Webura Company, and as an active member of the IEEE Computer Engineering Chapter, I continuously expand my knowledge through workshops and hands-on projects.",
+      "Most of my work revolves around building responsive interfaces, developing reusable React components, refining layouts, and improving interactions. I've built and deployed several web projects and completed a Front-End Development internship at Webura, where I gained experience working with real development workflows. I'm also involved with the IEEE Computer Engineering Chapter through technical activities, workshops, and collaborative projects.",
     about_location: "Gaza, Palestine",
     about_cv_btn: "⬇ Download CV",
 

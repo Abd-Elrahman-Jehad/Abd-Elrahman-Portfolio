@@ -1,5 +1,6 @@
 import ThemeSwitch from "./ThemeSwitch";
 import profilePhoto from "../assets/hero-photo.webp";
+import { smoothScrollToId } from "../utils_smooth_scroll";
 
 const NAV_ITEMS = [
   { id: "about", key: "nav_about" },
@@ -10,6 +11,11 @@ const NAV_ITEMS = [
   { id: "projects", key: "nav_projects" },
   { id: "contact", key: "nav_contact" },
 ];
+
+function handleNavClick(e, id) {
+  e.preventDefault();
+  smoothScrollToId(id);
+}
 
 export default function Navbar({
   t,
@@ -36,7 +42,12 @@ export default function Navbar({
 
         <div className="nav-links">
           {NAV_ITEMS.map((item) => (
-            <a key={item.id} href={`#${item.id}`} className={activeSection === item.id ? "active" : ""}>
+            <a
+              key={item.id}
+              href={`#${item.id}`}
+              className={activeSection === item.id ? "active" : ""}
+              onClick={(e) => handleNavClick(e, item.id)}
+            >
               {t[item.key]}
             </a>
           ))}

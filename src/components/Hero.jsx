@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import useCountUp from "../hooks/useCountUp";
 import heroPhoto from "../assets/its-me.webp";
+import { smoothScrollToId } from "../utils_smooth_scroll";
 
 function Typewriter({ words }) {
   const [text, setText] = useState("");
@@ -100,7 +101,15 @@ export default function Hero({ t }) {
         </div>
       </div>
 
-      <a href="#about" className="scroll-hint" aria-label="Scroll down">
+      <a
+        href="#about"
+        className="scroll-hint"
+        aria-label="Scroll down"
+        onClick={(e) => {
+          e.preventDefault();
+          smoothScrollToId("about");
+        }}
+      >
         <div className="scroll-mouse">
           <span className="scroll-dot" />
         </div>

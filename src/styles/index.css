@@ -1139,3 +1139,16 @@ html[dir="rtl"] .footer-links-col a:hover{transform:translateX(-4px);}
     flex: 0 0 auto;
   }
 }
+/* Arabic typography refinements */
+html[dir="rtl"] .section-tag {
+  font-size: 15px;
+  letter-spacing: 0;
+}
+html[dir="rtl"] .tl-date {
+  font-size: 11px;
+  letter-spacing: 0;
+}
+html[dir="rtl"] .about-text .section-tag,
+html[dir="rtl"] .contact-wrap .section-tag {
+  font-size: 15px;
+}
