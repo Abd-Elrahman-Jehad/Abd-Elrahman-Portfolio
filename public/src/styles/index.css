@@ -846,13 +846,7 @@ html[data-theme="dark"] .org-logo{background:#fff; padding:2px; box-shadow:0 1px
 html[data-theme="dark"] .org-logo-round{border-radius:50%;}
 .edu-card h3{font-size:18px; margin:6px 0 4px;}
 .edu-card p{color:var(--text-muted); font-size:14.5px; margin-top:8px;}
-/* align-items:start (instead of the grid default "stretch") is the actual
-   fix for the empty space: by default CSS Grid stretches every card in a
-   row to match the tallest one, so a card with a short one-line title gets
-   forced to the same height as a neighbor whose title wraps two lines,
-   leaving dead space under its org line. With "start", each card is only as
-   tall as its own content. */
-.cert-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px; align-items:start;}
+.cert-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px;}
 .cert-card{padding:24px; text-align:center; transition:transform .3s ease; cursor:pointer;}
 .cert-card:hover{transform:translateY(-6px); border-color:var(--accent);}
 /* Replaces the old bare emoji that sat atop every card — a real thumbnail of
