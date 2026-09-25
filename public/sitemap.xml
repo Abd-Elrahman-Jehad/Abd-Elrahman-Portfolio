@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  This is a single-page app (every section is an anchor on one page, not a
+  separate route), so there is only one real URL to list — that's normal and
+  expected for a sitemap like this, not a mistake.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://abd-elrahman-portfolio.netlify.app/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
