@@ -16,8 +16,8 @@ const translations = {
     hero_available: "متاح للعمل",
     hero_title_html:
       "مطوّر واجهات أمامية يبني<br/><span class='accent-text'>تجارب رقمية سينمائية</span>",
-    hero_sub:
-      "Abd Elrahman Jehad Aldasht — مهندس برمجيات من غزة، متخصص في بناء مواقع وواجهات حديثة، سريعة، وتفاعلية باستخدام HTML وCSS وJavaScript وReact.",
+  hero_sub:
+  "عبد الرحمن جهاد الدشت — مطوّر واجهات أمامية ومهندس برمجيات من غزة، متخصص في React وJavaScript وHTML وCSS وتطوير الواجهات المتجاوبة. يبني مواقع حديثة وتفاعلية مع التركيز على الواجهات النظيفة والأداء وتجربة المستخدم.",
     hero_cta1: "استكشف أعمالي ↓",
     hero_cta2: "تواصل معي",
     stat1: "مشاريع منجزة",
@@ -126,7 +126,7 @@ const translations = {
     hero_title_html:
       "Front-End Developer building<br/><span class='accent-text'>cinematic digital experiences</span>",
     hero_sub:
-      "Abd Elrahman Jehad Aldasht — a software engineer from Gaza, specialized in building modern, fast, and interactive websites with HTML, CSS, JavaScript and React.",
+      "Abd Elrahman Jehad Aldasht is a Front-End Web Developer and Software Engineer from Gaza, specializing in React, JavaScript, HTML, CSS, and responsive web development. He builds modern, interactive websites with a focus on clean interfaces, performance, and user experience.",
     hero_cta1: "Explore My Work ↓",
     hero_cta2: "Get In Touch",
     stat1: "Projects shipped",
