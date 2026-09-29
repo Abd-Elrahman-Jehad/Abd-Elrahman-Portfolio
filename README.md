@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://abd-elrahman-portfolio.netlify.app/" alt="Profile views" />
 
 </div>
 
