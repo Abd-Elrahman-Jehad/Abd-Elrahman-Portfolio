@@ -19,8 +19,11 @@
 <a href="mailto:jehadbood@gmail.com">
   <img src="https://img.shields.io/badge/Email-jehadbood%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://abd-elrahman-jehad.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+  <img
+    src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 </a>
 
 <br/><br/>
