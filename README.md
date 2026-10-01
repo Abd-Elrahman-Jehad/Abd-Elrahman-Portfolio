@@ -4,39 +4,51 @@
 
 ### `Front-End Developer` · `Software Engineering Enthusiast` · `Gaza, Palestine`
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning.+Always+building.+Always+improving." alt="Typing animation" />
-</a>
-
 <br/>
 
-<a href="https://github.com/Abd-Elrahman-Jehad">
-  <img src="https://img.shields.io/badge/GitHub-Abd--Elrahman--Jehad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
-  <img src="https://img.shields.io/badge/LinkedIn-Abd%20Elrahman%20Jehad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:jehadbood@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jehadbood%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning+%7C+Always+building+%7C+Always+improving"
+  alt="Typing animation"
+/>
 
 <br/><br/>
 
 <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
   <img
-    src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
-    alt="Profile views"
+    src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Explore Portfolio"
   />
 </a>
 
-<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+<br/><br/>
+
+<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank">
   <img
-    src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Visit my portfolio"
+    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
+
+<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:jehadbood@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 
 </div>
 
