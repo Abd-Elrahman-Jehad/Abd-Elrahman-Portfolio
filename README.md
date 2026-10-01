@@ -40,6 +40,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0891B2&height=70&section=footer" alt="Divider" width="100%" />
 
 </div>
+
 ## ✦ About This Project
 
 This repository contains my personal **React + Vite portfolio website** — a digital space designed to present my background, technical skills, professional experience, education, certificates, selected projects, freelance platforms, and contact channels in one polished experience.
