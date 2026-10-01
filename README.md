@@ -4,56 +4,49 @@
 
 ### `Front-End Developer` · `Software Engineering Enthusiast` · `Gaza, Palestine`
 
-<br/>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning+%7C+Always+building+%7C+Always+improving"
+  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning.+Always+building.+Always+improving."
   alt="Typing animation"
 />
 
-<br/><br/>
+<p>
+  <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Explore Portfolio"
+    />
+  </a>
+</p>
 
-<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+<p>
+  <a href="https://github.com/Abd-Elrahman-Jehad" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:jehadbood@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<p>
   <img
-    src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Explore Portfolio"
+    src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
+    alt="Profile views"
   />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank">
-  <img
-    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:jehadbood@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
-  alt="Profile views"
-/>
+</p>
 
 </div>
-
-
-
 ## ✦ About This Project
 
 This repository contains my personal **React + Vite portfolio website** — a digital space designed to present my background, technical skills, professional experience, education, certificates, selected projects, freelance platforms, and contact channels in one polished experience.
