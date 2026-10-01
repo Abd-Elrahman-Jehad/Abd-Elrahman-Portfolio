@@ -1,44 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:14B8A6&height=170&section=header&text=Abd%20Elrahman%20Jehad%20Aldasht&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%C2%B7%20Software%20Engineering%20Enthusiast&descSize=15&descAlignY=58" alt="Header banner" width="100%" />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning.+Always+building.+Always+improving."
-  alt="Typing animation"
-/>
-
-<br/>
-
-<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Explore Portfolio"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jehadbood@gmail.com">
-  <img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍%20Location-Palestine-0891B2?style=flat-square&labelColor=111827" alt="Location" />
-<img src="https://img.shields.io/badge/💼%20Role-Front--End%20Developer-14B8A6?style=flat-square&labelColor=111827" alt="Role" />
-<img src="https://img.shields.io/badge/🎯%20Focus-React%20%26%20Modern%20UI-22D3EE?style=flat-square&labelColor=111827" alt="Focus" />
-<img src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=flat-square&color=0891b2&label=PROFILE+VIEWS&labelColor=111827" alt="Profile views" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0891B2&height=70&section=footer" alt="Divider" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:14B8A6&height=150&section=header&text=Abd%20Elrahman%20Jehad%20Aldasht&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%C2%B7%20Software%20Engineering%20Enthusiast&descSize=15&descAlignY=62" alt="Header banner" width="100%" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=35&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning.+Always+building.+Always+improving." alt="Typing animation" />
+<br><br>
+<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio" /></a>
+<br><br>
+<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:jehadbood@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br><br>
+<img src="https://img.shields.io/badge/📍%20Location-Gaza%2C%20Palestine-0891B2?style=flat-square&labelColor=111827" alt="Location" />&nbsp;<img src="https://img.shields.io/badge/💼%20Role-Front--End%20Developer-14B8A6?style=flat-square&labelColor=111827" alt="Role" />&nbsp;<img src="https://img.shields.io/badge/🎯%20Focus-React%20%26%20Modern%20UI-22D3EE?style=flat-square&labelColor=111827" alt="Focus" />&nbsp;<img src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=flat-square&color=0891b2&label=PROFILE+VIEWS&labelColor=111827" alt="Profile views" />
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0891B2&height=60&section=footer" alt="Divider" width="100%" />
 </div>
 
 ## ✦ About This Project
