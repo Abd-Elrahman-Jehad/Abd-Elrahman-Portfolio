@@ -13,12 +13,17 @@
 <a href="https://github.com/Abd-Elrahman-Jehad">
   <img src="https://img.shields.io/badge/GitHub-Abd--Elrahman--Jehad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
   <img src="https://img.shields.io/badge/LinkedIn-Abd%20Elrahman%20Jehad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:jehadbood@gmail.com">
   <img src="https://img.shields.io/badge/Email-jehadbood%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br/><br/>
+
 <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
   <img
     src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"
@@ -26,12 +31,14 @@
   />
 </a>
 
-<br/><br/>
-
-<img src="https://abd-elrahman-portfolio.netlify.app/" alt="Profile views" />
+<a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Visit my portfolio"
+  />
+</a>
 
 </div>
-
 ---
 
 ## ✦ About This Project
