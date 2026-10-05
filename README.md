@@ -5,7 +5,8 @@
 <br><br>
 <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio" height="46" /></a>
 <br><br>
-<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:jehadbood@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>
+<a href="https://github.com/Abd-Elrahman-Jehad" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="mailto:abdelrahman.j.aldasht@gmail.com
+"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>
 <br><br>
 <img src="https://img.shields.io/badge/📍%20LOCATION-GAZA%2C%20PALESTINE-0891B2?style=for-the-badge&labelColor=111827" alt="Location" height="34" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/💼%20ROLE-FRONT--END%20DEVELOPER-14B8A6?style=for-the-badge&labelColor=111827" alt="Role" height="34" />
 <br><br>
@@ -263,7 +264,7 @@ Language and theme preferences are persisted locally so the interface can rememb
 
 <div align="center">
 
-<a href="mailto:jehadbood@gmail.com">
+<a href="mailto:abdelrahman.j.aldasht@gmail.com">
   <img src="https://img.shields.io/badge/Email-jehadbood%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://wa.me/970592476126">
