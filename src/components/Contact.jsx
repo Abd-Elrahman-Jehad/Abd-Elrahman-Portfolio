@@ -17,7 +17,7 @@ export default function Contact({ t, lang }) {
     lang === "ar"
       ? "مرحباً عبد الرحمن،\n\nشفت موقعك الشخصي وحابب أتواصل معك بخصوص:\n\n"
       : "Hi Abd Elrahman,\n\nI came across your portfolio and wanted to reach out about:\n\n";
-  const mailtoHref = `mailto:jehadbood@gmail.com?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
+  const mailtoHref = `mailto:abdelrahman.j.aldasht@gmail.com?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
 
   const [status, setStatus] = useState(null);
   const [leaving, setLeaving] = useState(false);
@@ -93,7 +93,7 @@ export default function Contact({ t, lang }) {
               <div className="c-icon">✉️</div>
               <div>
                 <b>{t.ch_email}</b>
-                <span>jehadbood@gmail.com</span>
+                <span>abdelrahman.j.aldasht@gmail.com</span>
               </div>
             </a>
             <a className="contact-channel" href="https://wa.me/970592476126" target="_blank" rel="noopener noreferrer">
@@ -139,7 +139,7 @@ export default function Contact({ t, lang }) {
             ref={formCard.ref}
             style={formCard.style}
             className={`glass reveal ${formCard.inView ? "in" : ""}`}
-            action="https://formsubmit.co/jehadbood@gmail.com"
+            action="https://formsubmit.co/abdelrahman.j.aldasht@gmail.com"
             method="POST"
             onSubmit={handleSubmit}
           >

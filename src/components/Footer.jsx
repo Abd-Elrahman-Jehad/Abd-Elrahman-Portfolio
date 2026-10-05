@@ -37,7 +37,7 @@ export default function Footer({ t }) {
               <a href="https://wa.me/970592476126" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
                 <WhatsAppIcon size={17} />
               </a>
-              <a href="mailto:jehadbood@gmail.com" aria-label="Email">
+              <a href="mailto:abdelrahman.j.aldasht@gmail.com" aria-label="Email">
                 ✉️
               </a>
             </div>
