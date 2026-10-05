@@ -264,7 +264,7 @@ Language and theme preferences are persisted locally so the interface can rememb
 <div align="center">
 
 <a href="mailto:abdelrahman.j.aldasht@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jehadbood%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-abdelrahman.j.aldasht%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://wa.me/970592476126">
   <img src="https://img.shields.io/badge/WhatsApp-Direct%20Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
