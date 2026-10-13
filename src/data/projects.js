@@ -1,10 +1,25 @@
 // Project list.
+// Newest project first.
 // Like certificates, images are NOT embedded in the code — each project points to
 // a file path under /public/projects/. Drop a screenshot there with the matching
 // filename (e.g. p1.jpg) and it replaces the icon/gradient thumbnail automatically.
 // If the file doesn't exist yet, the card falls back to the icon + gradient shown below.
 
 const projects = [
+  {
+    id: "aurum",
+    image: "/projects/aurum.jpg",
+    icon: "⌚",
+    gradient: "linear-gradient(135deg,#1a1006,#3a2a12)",
+    title: "AURUM — Heritage 42",
+    desc: {
+      ar: "تجربة ويب سينمائية لساعة فاخرة تتفكك وتُركَّب من جديد أثناء التمرير، مبنية بـ React وTypeScript وGSAP ScrollTrigger وLenis، بدعم كامل للعربية والإنجليزية وتحسين متقدم لمحركات البحث والأمان.",
+      en: "A cinematic, scroll-driven luxury watch experience where a single timepiece is disassembled and rebuilt as you scroll. Built with React, TypeScript, GSAP ScrollTrigger and Lenis, with full English/Arabic support, SEO prerendering and hardened security.",
+    },
+    tags: ["React", "TypeScript", "GSAP", "Bilingual"],
+    live: "https://aurum-heritage.netlify.app/",
+    code: "https://github.com/Abd-Elrahman-Jehad/aurum-heritage",
+  },
   {
     id: "p1",
     image: "/projects/p1.jpg",
@@ -71,19 +86,6 @@ en: "A complete dental clinic and digital lab website combining a modern healthc
     tags: ["Auth", "Dark Mode", "2FA"],
     live: "https://abd-elrahman-jehad.github.io/auth-pages-html-css/",
     code: "https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css",
-  },
-  {
-    id: "p6",
-    image: "/projects/p6.jpg",
-    icon: "📦",
-    gradient: "linear-gradient(135deg,#0d1a2e,#1a2a3a)",
-    title: { ar: "نظام إدارة مخزون", en: "Inventory Management System" },
-    desc: {
-      ar: "نظام إدارة منتجات متكامل مبني بـ PHP وMySQL، ومحوسب بالكامل عبر Docker.",
-      en: "A complete product inventory system built with PHP and MySQL, fully containerized with Docker.",
-    },
-    tags: ["PHP", "MySQL", "Docker"],
-    code: "https://github.com/Abd-Elrahman-Jehad/php-product-inventory",
   },
 ];
 
