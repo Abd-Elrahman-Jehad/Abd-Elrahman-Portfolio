@@ -142,12 +142,12 @@ Direct communication channels plus a contact form.
 
 | Project | Stack | Live | Source |
 | --- | --- | --- | --- |
+| **AURUM — Heritage 42** | React / TypeScript / GSAP / Lenis | [Live ↗](https://aurum-heritage.netlify.app/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/aurum-heritage) |
 | **TURPOTIC** | HTML / CSS / JS | [Live ↗](https://abd-elrahman-jehad.github.io/TURPOTIC/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/TURPOTIC) |
 | **XTRA** | GSAP / Three.js / tsParticles | [Live ↗](https://abd-elrahman-jehad.github.io/XTRA/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/XTRA) |
 | **Lilia Motors** | HTML5 / CSS3 / JS | [Live ↗](https://abd-elrahman-jehad.github.io/lilia-motors-website/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website) |
 | **Lazord** | JavaScript / Auth UI | [Live ↗](https://abd-elrahman-jehad.github.io/DentalClinic/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/DentalClinic) |
 | **Modern Authentication UI** | Auth / Dark Mode / 2FA | [Live ↗](https://abd-elrahman-jehad.github.io/auth-pages-html-css/) | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css) |
-| **Inventory Management System** | PHP / MySQL / Docker | — | [GitHub ↗](https://github.com/Abd-Elrahman-Jehad/php-product-inventory) |
 
 ---
 
