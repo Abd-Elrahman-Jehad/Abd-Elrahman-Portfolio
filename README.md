@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:14B8A6&height=150&section=header&text=Abd%20Elrahman%20Jehad%20Aldasht&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%C2%B7%20Software%20Engineering%20Enthusiast&descSize=15&descAlignY=62" alt="Header banner" width="100%" />
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=35&lines=Building+clean+%26+cinematic+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Responsive+interfaces+with+attention+to+detail;Always+learning.+Always+building.+Always+improving." alt="Typing animation" />
